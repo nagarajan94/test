@@ -22,6 +22,11 @@ public void empAddress() {
 	// TODO Auto-generated method stub
 System.out.println("my address is singampunari");
 }
+private void testking() {
+	// TODO Auto-generated method stub
+	System.out.println("testking");
+
+}
 public static void main(String[] args) {
 	Employee S=new Employee();
 	S.empId();
